@@ -1,0 +1,7 @@
+COPYRIGHT	copyright notice
+MANIFESTO	this file
+README		general instruction on as68/ass09
+as68.c		assembler main body
+as68.h		assembler header
+makefile	makefile
+optab.c		assembler operation code table
